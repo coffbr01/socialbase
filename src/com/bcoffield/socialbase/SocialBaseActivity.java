@@ -24,3 +24,4 @@ public class SocialBaseActivity extends Activity {
         setContentView(R.layout.main);
     }
 }
+

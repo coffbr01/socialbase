@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SocialBaseActivity</string>
+    <string name="app_name">Social Base</string>
+    <string name="facebook">Facebook</string>
+    <string name="google_plus">Google+</string>
+    <string name="linked_in">Linked In</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="twitter">Twitter</string>
 </resources>
