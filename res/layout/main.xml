@@ -9,31 +9,36 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/facebook"
-        android:id="@+id/facebookButton"/>
+        android:id="@+id/facebookButton"
+        android:onClick="facebookClick"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/twitter"
-        android:id="@+id/twitterButton"/>
+        android:id="@+id/twitterButton"
+        android:onClick="twitterClick"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/google_plus"
-        android:id="@+id/googlePlusButton"/>
+        android:id="@+id/googlePlusButton"
+        android:onClick="googlePlusClick"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/pinterest"
-        android:id="@+id/pinterestButton"/>
+        android:id="@+id/pinterestButton"
+        android:onClick="pinterestClick"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/linked_in"
-        android:id="@+id/linkedInButton"/>
+        android:id="@+id/linkedInButton"
+        android:onClick="linkedInClick"/>
 
 </LinearLayout>
 

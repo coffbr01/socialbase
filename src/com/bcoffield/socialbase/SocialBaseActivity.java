@@ -16,12 +16,33 @@ package com.bcoffield.socialbase;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.View;
 
 public class SocialBaseActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+    }
+
+    public void facebookClick(View v) {
+        // Give the app permissions.
+    }
+
+    public void linkedInClick(View v) {
+        // Give the app permissions.
+    }
+
+    public void pinterestClick(View v) {
+        // Give the app permissions.
+    }
+
+    public void googlePlusClick(View v) {
+        // Give the app permissions.
+    }
+
+    public void twitterClick(View v) {
+        // Give the app permissions.
     }
 }
 
